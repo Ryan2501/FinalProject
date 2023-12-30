@@ -1,0 +1,20 @@
+{
+  "@@locale": "en",
+  "appTitle": "Exchange Rate Calculator",
+  "screen1Title": "Exchange Rate",
+  "screen1Description": "Currency conversion calculator",
+  "currencyConverterTitle": "Currency Converter",
+  "enterAmountLabel": "Enter Amount",
+  "enterAmountHint": "0.00",
+  "convertToLabel": "Convert to:",
+  "convertButtonLabel": "Convert",
+  "convertedAmountLabel": "Converted Amount",
+  "usdCurrency": "US Dollar (USD)",
+  "eurCurrency": "Euro (EUR)",
+  "jpyCurrency": "Japanese Yen (JPY)",
+  "cnyCurrency": "Chinese Yuan (CNY)",
+  "hkdCurrency": "Hong Kong Dollar (HKD)",
+  "gbpCurrency": "British Pound (GBP)",
+  "audCurrency": "Australian Dollar (AUD)",
+  "twdCurrency": "New Taiwan Dollar (TWD)"
+}

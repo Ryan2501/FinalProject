@@ -1,0 +1,20 @@
+{
+  "@@locale": "zh",
+  "appTitle": "匯率計算器",
+  "screen1Title": "匯率",
+  "screen1Description": "貨幣轉換計算器",
+  "currencyConverterTitle": "貨幣轉換器",
+  "enterAmountLabel": "輸入金額",
+  "enterAmountHint": "0.00",
+  "convertToLabel": "轉換為:",
+  "convertButtonLabel": "轉換",
+  "convertedAmountLabel": "轉換後金額",
+  "usdCurrency": "美元 (USD)",
+  "eurCurrency": "歐元 (EUR)",
+  "jpyCurrency": "日元 (JPY)",
+  "cnyCurrency": "人民幣 (CNY)",
+  "hkdCurrency": "港元 (HKD)",
+  "gbpCurrency": "英鎊 (GBP)",
+  "audCurrency": "澳元 (AUD)",
+  "twdCurrency": "新台幣 (TWD)"
+}
